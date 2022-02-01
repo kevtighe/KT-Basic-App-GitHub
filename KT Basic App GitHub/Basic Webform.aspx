@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <% KT_Basic_App_GitHub.Class1 tp = new KT_Basic_App_GitHub.Class1(); %>
-
+            <%-- test --%>
             <%=tp.Name %>
         </div>
     </form>
