@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT Basic App GitHub", "KT Basic App GitHub\KT Basic App GitHub.csproj", "{04FAF79F-2850-40EE-AE51-2F73098D45DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{F6BE13F7-72D5-4301-8913-F3FC0DB6C1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FAF79F-2850-40EE-AE51-2F73098D45DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FAF79F-2850-40EE-AE51-2F73098D45DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FAF79F-2850-40EE-AE51-2F73098D45DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FAF79F-2850-40EE-AE51-2F73098D45DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BE13F7-72D5-4301-8913-F3FC0DB6C1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BE13F7-72D5-4301-8913-F3FC0DB6C1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BE13F7-72D5-4301-8913-F3FC0DB6C1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BE13F7-72D5-4301-8913-F3FC0DB6C1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0356545-C032-44D1-ACFB-C728D0AC3F67}
+	EndGlobalSection
+EndGlobal
