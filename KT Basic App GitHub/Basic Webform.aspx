@@ -11,9 +11,7 @@
         <div>
             <% KT_Basic_App_GitHub.Class1 tp = new KT_Basic_App_GitHub.Class1(); %>
             <%-- test --%>
-            <%-- branch this--%>
-            <%-- hello --%>
-            <%-- Real Branch. --%>
+            <%-- Finally the branch works --%>
             <%=tp.Name %>
         </div>
     </form>
